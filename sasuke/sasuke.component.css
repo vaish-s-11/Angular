@@ -1,0 +1,27 @@
+.container{
+    margin:20px 20px;
+    background-color: #eee;
+    width: 500px;
+    background-image: url('../sasuke/sasuke-pictures.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.container1{
+    margin:20px 20px;
+    background-color: #eee;
+    width: 500px;
+    background-image: url('../sasuke/obito.jpg');
+    background-size: cover;
+    background-position: center;
+}
+button{
+    width: 180px;
+    height: 35px;
+    border: none;
+    background-color: #0E80F2;
+    color: #fff;
+}
+
+button:hover{
+    background-color: rgb(48, 215, 244);
+}

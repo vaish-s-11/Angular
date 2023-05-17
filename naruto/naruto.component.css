@@ -1,0 +1,27 @@
+.container{
+    margin:20px 20px;
+    background-color: #eee;
+    width: 500px;
+    background-image: url('../naruto/HD-wallpaper-naruto-black-red.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.container1{
+    margin:20px 20px;
+    background-color: #eee;
+    width: 500px;
+    background-image: url('../naruto/Itachi1.webp');
+    background-size: cover;
+    background-position: center;
+}
+
+
+button{
+    width: 180px;
+    height: 35px;
+    border: none;
+    background-color: #F4D03F;
+}
+button:hover{
+    background-color: rgb(248, 12, 28);
+}
